@@ -28,7 +28,7 @@
   		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/29599928/0x90">
   				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
   	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/0x90sh">
-  					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+  					<img src="https://static-00.iconduck.com/assets.00/dev-to-icon-512x302-lpe5vf6u.png"></a>
           <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/0x90.sh">
   			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
   		<a style="margin-left: 10px;" target="_blank" href="https://x.com/0x90sh">
