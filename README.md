@@ -59,8 +59,7 @@ Tool Development          ██████████████████
 
 **[/mnt/ain](https://ctftime.org/team/152367)**
 
-CTF team organizing the SHC
-[swiss-hacking-challenge.ch](https://www.swiss-hacking-challenge.ch/)
+CTF team organizing the [SHC](https://www.swiss-hacking-challenge.ch/)
 
 </td>
 <td align="center" width="50%">
