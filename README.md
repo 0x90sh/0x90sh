@@ -1,50 +1,87 @@
-<h1 align="center">Hi 👋, I'm <a href="https://0x90.sh/" target="blank">
-0x90</a></h1>
-<h3 align="center">A passionate infosec enthusiast and software engineer from switzerland 🇨🇭</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x90sh&label=Profile%20views&color=0e75b6&style=flat" alt="0x90sh" /> </p>
+<img src="https://0x90.sh/data/assets/logo/0x90banne.png" alt="0x90" width="100%">
 
-<p align="left"> <a href="https://x.com/0x90sh" target="blank"><img src="https://img.shields.io/twitter/follow/0x90sh?logo=twitter&style=for-the-badge" alt="0x90sh" /></a> </p>
+```
+root@0x90:~# whoami
+```
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+**Security Researcher & Software Engineer**
+**Switzerland** :switzerland:
 
-- 📝 I regularly write articles on [https://0x90.sh](https://0x90.sh/)
+[![Blog](https://img.shields.io/badge/0x90.sh-Blog-0a0a0a?style=flat-square&logo=hackthebox&logoColor=9fef00)](https://0x90.sh/)
+[![Twitter](https://img.shields.io/badge/@0x90sh-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://x.com/0x90sh)
+[![GitHub](https://img.shields.io/badge/0x90sh-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/0x90sh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/marco-capuano-starux/)
 
-- 📫 How to reach me **hi@0x90.sh**
-
-- 📄 Know about my experiences <a href="https://0x90.sh/" target="blank">Blog & Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
-  <div align="center"  class="icons-social" style="margin-left: 10px;">
-          <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/marco-capuano-starux/">
-  			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-          <a style="margin-left: 10px;" target="_blank" href="https://github.com/0x90sh">
-  		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-  		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/29599928/0x90">
-  				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-  	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/0x90sh">
-  					<img src="https://static-00.iconduck.com/assets.00/dev-to-icon-512x302-lpe5vf6u.png" height="30"></a>
-          <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/0x90.sh">
-  			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-  		<a style="margin-left: 10px;" target="_blank" href="https://x.com/0x90sh">
-  			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-  </div>
-</p>
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Hacking Major Swiss Software Companies (Multimillion CHF Companies)](https://0x90.sh/threads/hacking-major-swiss-software-companies-multimillion-chf-companies.4/)
-- [Usermode Anti-Cheat for Call of Duty](https://0x90.sh/threads/usermode-anti-cheat-for-call-of-duty.3/)
-- [Video Game Hacking: Attacking & Defending Memory for Intermediates](https://0x90.sh/threads/video-game-hacking-attacking-defending-memory-for-intermediates.2/)
-<!-- BLOG-POST-LIST:END -->
+</div>
 
 ---
 
-Last Edited on: 11/02/2025
+### `$ cat /etc/motd`
+
+> Offensive security, vulnerability research, and building tools that break (and fix) things.
+> I dig into codebases, find what shouldn't be there, and write about it.
+
+---
+
+### `$ ls ./0day-blog/`
+
+| Title | Target |
+|---|---|
+| [**My First CVE: Windmill NativeTS Code Injection via Workspace Env Vars**](https://0x90.sh/threads/my-first-cve-windmill-nativets-code-injection-via-workspace-env-vars.49/) | Windmill |
+| [**Apache Airflow, SSTI, and the Annoying Question of What Counts as a Vulnerability**](https://0x90.sh/threads/apache-airflow-ssti-and-the-annoying-question-of-what-counts-as-a-vulnerability.48/) | Apache Airflow |
+| [**Drizzle ORM Had a Real SQL Injection, and the Fix Was Refreshingly Boring**](https://0x90.sh/threads/drizzle-orm-had-a-real-sql-injection-and-the-fix-was-refreshingly-boring.47/) | Drizzle ORM |
+
+> **More writeups** at [0x90.sh/forums/0day-blog.8/](https://0x90.sh/forums/0day-blog.8/)
+
+---
+
+### `$ cat interests.txt`
+
+```
+Vulnerability Research    ██████████████████████░░   85%
+Reverse Engineering       ████████████████████░░░░   80%
+Web Application Security  ██████████████████████░░   85%
+Anti-Cheat Engineering    ████████████████░░░░░░░░   65%
+Tool Development          ███████████████████░░░░░   75%
+```
+
+---
+
+### `$ cat /etc/ctf.conf`
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://www.swiss-hacking-challenge.ch/img/mnt_ain_logo.png" alt="/mnt/ain" height="80">
+
+**[/mnt/ain](https://ctftime.org/team/152367)**
+
+CTF team organizing the SHC
+[swiss-hacking-challenge.ch](https://www.swiss-hacking-challenge.ch/)
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://ctftime.org/media/cache/40/9c/409c0a37ff02b259487065fc3f0e4a82.png" alt="Nopping in Heaven's Door" height="80">
+
+**[Nopping on Heaven's Door](https://ctftime.org/team/419129)**
+
+Solo ranked **#1 Switzerland**
+One man army
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+```
+0x90@swiss:~$ echo "Break it. Fix it. Write about it."
+```
+
+</div>
